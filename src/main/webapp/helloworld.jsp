@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>HelloWorld</h1>
+System.out.println("HelloWorld!!!");
+System.out.println("헬로월드!!!");
 </body>
 </html>
